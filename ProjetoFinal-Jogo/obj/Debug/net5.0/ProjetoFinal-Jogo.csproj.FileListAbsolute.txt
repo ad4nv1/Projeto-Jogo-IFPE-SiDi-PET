@@ -1,0 +1,16 @@
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ProjetoFinal-Jogo.exe
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ProjetoFinal-Jogo.deps.json
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ProjetoFinal-Jogo.runtimeconfig.json
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ProjetoFinal-Jogo.runtimeconfig.dev.json
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ProjetoFinal-Jogo.dll
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ref\ProjetoFinal-Jogo.dll
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\bin\Debug\net5.0\ProjetoFinal-Jogo.pdb
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.csproj.AssemblyReference.cache
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.AssemblyInfoInputs.cache
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.AssemblyInfo.cs
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.dll
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ref\ProjetoFinal-Jogo.dll
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.pdb
+C:\Users\Adan\source\repos\ProjetoFinal-Jogo\ProjetoFinal-Jogo\obj\Debug\net5.0\ProjetoFinal-Jogo.genruntimeconfig.cache
